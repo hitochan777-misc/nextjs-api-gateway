@@ -1,4 +1,4 @@
-# Next.js throught API gateway
+# Next.js through API gateway
 
 This repository reproduces the situation where a browser does not finish loading a Next.js page forever or completely hangs when the app is served through a proxy server.
 
